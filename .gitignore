@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Large Data & Reports
+Test/Project/anomalies_output/
+*.csv
+Test/Project/anomalies_output/your_report.html
+Test/Project/anomalies_output/data_profiling_report.html
+Test/Project/anomalies_output/pandas_profiling_report.html
